@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, AudioMaker!</string>
+    <string name="app_name">AudioMaker</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_exit">Stop</string>
+    
+    <string-array name="action">
+    	<item>8000</item>
+    	<item>16000</item>
+    	<item>22050</item>
+    	<item>44100</item>
+    	<item>48000</item>
+    </string-array>
+    
+</resources>
